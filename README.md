@@ -1,7 +1,7 @@
 # desafio_ingdatos_3
 demostración rápida de cómo implementar un proceso ETL con Python para el dataset de títulos de Netflix
 
-Para hacer un proceso ETL en un archivo de notebook de Visual Studio Code, usaremos la extensión de Jupyter en VS Code. Aquí te mostraré cómo organizar el código en un cuaderno para que puedas ejecutarlo paso a paso.
+Para hacer un proceso ETL en un archivo de notebook de Visual Studio Code, usaremos la extensión de Jupyter en VS Code.
 
 Base de datos: https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows?resource=download
 
